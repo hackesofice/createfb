@@ -205,7 +205,7 @@ class create:
                     "field_names[1]": "birthday_wrapper",
                     "birthday_day": str(random.randint(1,28)),
                     "birthday_month": str(random.randint(1,12)),
-                    "birthday_year": str(random.randint(1992,2004)),
+                    "birthday_year": str(random.randint(1996,2006)),
                     "age_step_input": "",
                     "did_use_age": "",
                     "field_names[2]": "reg_email__",
