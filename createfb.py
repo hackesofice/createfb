@@ -47,20 +47,20 @@ for xd in range(5000):
     uas=f'{aa} {bv}; {c}{d}{e}{f} Build/{d}{f}{V}{f}; wv) {g}{h}.{i}.{j}.{k} {l}'
     ugen.append(uas)
 logo4 = """
-\x1b[1;91m.        
-\x1b[1;92m ooooo   ooooo       .o.         .oooooo.   oooo    oooo oooooooooooo ooooooooo.
-\x1b[1;96m `888'   `888'      .888.       d8P'  `Y8b  `888   .8P'  `888'     `8 `888   `Y88.
-\x1b[1;92m  888     888      .8"888.     888           888  d8'     888          888   .d88
-\x1b[1;97m  888ooooo888     .8' `888.    888           88888[       888oooo8     888ooo88P'
-\x1b[1;93m  888     888    .88ooo8888.   888           888`88b.     888    "     888`88b.
-\x1b[1;96m  888     888   .8'     `888.  `88b    ooo   888  `88b.   888       o  888  `88b.
-\x1b[1;94m o888o   o888o o88o     o8888o  `Y8bood8P'  o888o  o888o o888ooooood8 o888o  o888o
+\x1b[1;91m. 888    888        d8888 888    d8P  8888888b.         
+\x1b[1;92m  888    888       d88888 888   d8P   888   Y88b 
+\x1b[1;96m  888    888      d88P888 888  d8P    888    888 
+\x1b[1;92m  8888888888     d88P 888 888d88K     888   d88P 
+\x1b[1;97m  888    888    d88P  888 8888888b    8888888P"  
+\x1b[1;93m  888    888   d88P   888 888  Y88b   888 T88b   
+\x1b[1;96m  888    888  d8888888888 888   Y88b  888  T88b  
+\x1b[1;94m  888    888 d88P     888 888    Y88b 888   T88b 
 \x1b[1;93m
 \x1b[1;92m                THE SANATNI (KATTAR) HINDU ~
 \x1b[1;91m-----------------------------------------------
-\x1b[1;97m> Author : ꕥؖؖؖؖؖꕹؖؖؖؖؖؖؖؖؖꕹؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖꗝ ꓧٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜꓥٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜꓚٜٜٜٜٜٜٜٜٜٜٜٜꓗٜٜٜٜٜٜٜٜꓰٜٜٜٜꓣٜ ꗝؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖꕹؖؖؖؖؖؖؖؖؖꕹؖؖؖؖؖꕥ
+\x1b[1;97m> Author : ꕥؖؖؖؖؖꕹؖؖؖؖؖؖؖؖؖꕹؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖꗝ ꓧٜٜٜٜٜꓥٜٜٜٜꓚٜٜٜꓗٜٜꓰٜꓣٜ ꗝؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖꕹؖؖؖؖؖؖؖؖؖꕹؖؖؖؖؖꕥ
 \x1b[1;97m> Github : https://github.com/hackesofice
-\x1b[1;97m> Facebok: Hackersofice 
+\x1b[1;97m> Facebok: https://www.facebook.com/Hackersofice 
 \x1b[1;97m> Version: auto create facebook
 \x1b[0;97m-----------------------------------------------"""
 boy = ['Ali Khan', 'Rustam Khan', 'Faisal Khan', 'Afzal Khan', 'Haider Khan', 'Suleman Khan', 'Nadeem Khan', 'Nazeer Malik', 'Nazeer Jutt', 'Nazeer Rehmani', 'Safdar Malik', 'Intzar Khan', 'Saleem Malik', 'Abdullah Malik', 'Naseer Jutt', 'Muzammil Malik', 'Fiaz Ahmad', 'Asghar Ali', 'Shabeer Ahmad', 'Irfan Ali', 'Ahmad Gujjar']
