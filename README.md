@@ -21,5 +21,5 @@ git clone https://github.com/hackesofice/createfb
 
 cd createfb
 
-python createfb.py or python crackfb.py
+python createfb.py
 
