@@ -17,7 +17,7 @@ pip install requests
 
 pip install bs4
 
-rm rf createfb
+rm -rf createfb
 
 git clone https://github.com/hackesofice/createfb
 
