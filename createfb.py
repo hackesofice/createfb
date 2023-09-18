@@ -57,12 +57,13 @@ logo4 = """
 \x1b[1;94m  888    888 d88P     888 888    Y88b 888   T88b 
 \x1b[1;93m
 \x1b[1;92m          THE SANATNI (KATTAR) HINDU ~
-\x1b[1;91m-----------------------------------------------
+\x1b[1;91m________________________________________________
+\x1b[1;91m
 \x1b[1;97m>   Author : ꕥؖؖؖꕹؖؖؖؖꕹؖؖؖؖؖؖؖꗝ ꓧٜٜٜꓥٜٜꓚٜٜꓗٜٜꓰٜꓣٜ ꗝؖؖؖؖؖؖؖꕹؖؖؖؖꕹؖؖؖꕥ
 \x1b[1;97m>   Github : https://github.com/hackesofice
 \x1b[1;97m>   Facebok: https://www.facebook.com/Hackersofice 
 \x1b[1;97m>   Version: new account making tool
-\x1b[0;97m-----------------------------------------------"""
+\x1b[0;97m________________________________________________"""
 boy = ['Deepak singhaniya', 'chandan chandan', 'nikeet nikeet', 'ajeet kumar', 'ankit ankit', 'amit rao', 'monu monu', 'manoj kumar', 'suneel suneel', 'shivam kumar', 'raju raju', 'ritesh ritesh', 'rinku dada', 'roman ragins', 'ravi ravi', 'rishub thakur', 'shuddh sanatni', 'sharvesh vishwakarma', 'sonu nigum', 'surya singhum', 'rinku kumar', 'rishab gaur', 'chutiya mulla', 'mullo kapapa', 'Emma Emma','Ali Khan', 'Rustam Khan', 'Faisal Khan', 'Afzal Khan', 'Haider Khan', 'Suleman Khan', 'Nadeem Khan', 'Nazeer Malik', 'Nazeer Jutt', 'Nazeer Rehmani', 'Safdar Malik', 'Intzar Khan', 'Saleem Malik', 'Abdullah Malik', 'Naseer Jutt', 'Muzammil Malik', 'Fiaz Ahmad', 'Asghar Ali', 'Shabeer Ahmad', 'Irfan Ali', 'Ahmad Gujjar']
 girl = ['riya Patel', 'rinki jaiswal', 'rma sharma', 'rinki kumari', 'priya kumari', 'priya sing', 'ritika rana', 'siya kumari', 'seema sing', 'seema devi', 'riya goswami', 'amjana sing', 'pinki devi', 'than lii', 'lii than', 'tinn chuu', 'mayra alexender', 'rashmika mandana', 'shalu sing', 'zalim mulli', 'saba khan', 'shabana begum', 'zara zara', 'Nazma nazmama', 'shabnam begum', 'natasha begum', 'harliin begum', 'aisa aisa', 'mulli alli', 'shitara baegum', 'shakeena begum', 'ridhman ridhma', 'lexy chabada', 'Olivia Olivia', 'Emma Emma', 'Sajida Malik', 'Ayesha Khan', 'Nabeela Malik', 'Kinza Fatima', 'Arooj Khan', 'Muskan Khan', 'Ayesha Malik', 'Safina Malik', 'Nida Ali', 'Rimsha Ali']
 ok = []
