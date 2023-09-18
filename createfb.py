@@ -58,7 +58,7 @@ logo4 = """
 \x1b[1;93m
 \x1b[1;92m          THE SANATNI (KATTAR) HINDU ~
 \x1b[1;91m-----------------------------------------------
-\x1b[1;97m>   Author : ꕥؖؖؖؖؖꕹؖؖؖؖؖؖꕹؖؖؖؖؖؖؖꗝ ꓧٜٜٜꓥٜٜꓚٜٜꓗٜٜꓰٜꓣٜ ꗝؖؖؖؖؖؖؖꕹؖؖؖؖؖؖꕹؖؖؖؖؖꕥ
+\x1b[1;97m>   Author : ꕥؖؖؖꕹؖؖؖؖꕹؖؖؖؖؖؖؖꗝ ꓧٜٜٜꓥٜٜꓚٜٜꓗٜٜꓰٜꓣٜ ꗝؖؖؖؖؖؖؖꕹؖؖؖؖꕹؖؖؖꕥ
 \x1b[1;97m>   Github : https://github.com/hackesofice
 \x1b[1;97m>   Facebok: https://www.facebook.com/Hackersofice 
 \x1b[1;97m>   Version: new account making tool
@@ -151,7 +151,7 @@ class create:
         OO = '\033[0;97m'
         for x in range(lim):
             self.loop += 1
-            sys.stdout.write(f'\r {OO}[HAKR-AUTOCREATE] {OO}{self.loop}/{str(lim)} OK:{len(ok)} - CP:{len(cp)}{OO} '),
+            sys.stdout.write(f'\r {OO}[HAKR-AUTOCREATE] {OO}{self.loop}/{str(lim)} HAKR-OK:{len(ok)} - HAKR-CP:{len(cp)}{OO} '),
             sys.stdout.flush()
             if 'boy' in self.gender:
                 name = random.choice(boy).split(' ')
