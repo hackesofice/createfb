@@ -64,8 +64,8 @@ logo4 = """
 \x1b[1;97m>   Facebok: https://www.facebook.com/Hackersofice 
 \x1b[1;97m>   Version: new account making tool
 \x1b[0;97m________________________________________________"""
-boy = ['Deepak singhaniya', 'chandan chandan', 'nikeet nikeet', 'ajeet kumar', 'ankit ankit', 'amit rao', 'monu monu', 'manoj kumar', 'suneel suneel', 'shivam kumar', 'raju raju', 'ritesh ritesh', 'rinku dada', 'roman ragins', 'ravi ravi', 'rishub thakur', 'shuddh sanatni', 'sharvesh vishwakarma', 'sonu nigum', 'surya singhum', 'rinku kumar', 'rishab gaur', 'chutiya mulla', 'mullo kapapa', 'Emma Emma','Ali Khan', 'Rustam Khan', 'Faisal Khan', 'Afzal Khan', 'Haider Khan', 'Suleman Khan', 'Nadeem Khan', 'Nazeer Malik', 'Nazeer Jutt', 'Nazeer Rehmani', 'Safdar Malik', 'Intzar Khan', 'Saleem Malik', 'Abdullah Malik', 'Naseer Jutt', 'Muzammil Malik', 'Fiaz Ahmad', 'Asghar Ali', 'Shabeer Ahmad', 'Irfan Ali', 'Ahmad Gujjar']
-girl = ['riya Patel', 'rinki jaiswal', 'rma sharma', 'rinki kumari', 'priya kumari', 'priya sing', 'ritika rana', 'siya kumari', 'seema sing', 'seema devi', 'riya goswami', 'amjana sing', 'pinki devi', 'than lii', 'lii than', 'tinn chuu', 'mayra alexender', 'rashmika mandana', 'shalu sing', 'zalim mulli', 'saba khan', 'shabana begum', 'zara zara', 'Nazma nazmama', 'shabnam begum', 'natasha begum', 'harliin begum', 'aisa aisa', 'mulli alli', 'shitara baegum', 'shakeena begum', 'ridhman ridhma', 'lexy chabada', 'Olivia Olivia', 'Emma Emma', 'Sajida Malik', 'Ayesha Khan', 'Nabeela Malik', 'Kinza Fatima', 'Arooj Khan', 'Muskan Khan', 'Ayesha Malik', 'Safina Malik', 'Nida Ali', 'Rimsha Ali']
+boy = ['Deepak singhaniya', 'chandan chandan', 'nikeet nikeet', 'ajeet kumar', 'ankit ankit', 'amit rao', 'monu monu', 'manoj kumar', 'suneel suneel', 'shivam kumar', 'raju raju', 'ritesh ritesh', 'rinku dada', 'roman ragins', 'ravi ravi', 'rishub thakur', 'shuddh sanatni', 'sharvesh vishwakarma', 'sonu nigum', 'surya singhum', 'rinku kumar', 'rishab gaur', 'chutiya mulla', 'mullo kapapa', 'Emma Emma','Ali Khan', 'Rustam Khan', 'Faisal Khan', 'Afzal Khan', 'Haider Khan', 'Suleman Khan', 'Nadeem Khan', 'Nazeer Malik', 'Nazeer Jutt', 'Nazeer Rehmani', 'Safdar Malik', 'Intzar Khan', 'Saleem Malik', 'Abdullah Malik', 'Naseer Jutt', 'Muzammil Malik', 'Fiaz Ahmad', 'Asghar Ali', 'Shabeer Ahmad', 'Irfan Ali', 'Ahmad Gujjar', 'pranjul kumar', 'som gupta', 'alla chod', 'accha hizda', 'ganda baccha']
+girl = ['riya Patel', 'rinki jaiswal', 'rma sharma', 'rinki kumari', 'priya kumari', 'priya sing', 'ritika rana', 'siya kumari', 'seema sing', 'seema devi', 'riya goswami', 'amjana sing', 'pinki devi', 'than lii', 'lii than', 'tinn chuu', 'mayra alexender', 'rashmika mandana', 'shalu sing', 'zalim mulli', 'saba khan', 'shabana begum', 'zara zara', 'Nazma nazmama', 'shabnam begum', 'natasha begum', 'harliin begum', 'aisa aisa', 'mulli alli', 'shitara baegum', 'shakeena begum', 'ridhman ridhma', 'lexy chabada', 'Olivia Olivia', 'Emma Emma', 'Sajida Malik', 'Ayesha Khan', 'Nabeela Malik', 'Kinza Fatima', 'Arooj Khan', 'Muskan Khan', 'Ayesha Malik', 'Safina Malik', 'Nida Ali', 'Rimsha Ali', 'kanhaiyaki diwani', 'acchi bacchi', 'ruchi tripathi', 'apoorva mishra', 'gand mari']
 ok = []
 cp = []
 def menu():
@@ -152,7 +152,7 @@ class create:
         OO = '\033[0;97m'
         for x in range(lim):
             self.loop += 1
-            sys.stdout.write(f'\r {OO}[HAKR-AUTOCREATE] {OO}{self.loop}/{str(lim)} HAKR-OK:{len(ok)} - HAKR-CP:{len(cp)}{OO} '),
+            sys.stdout.write(f'\r {OO}[HKR-AUTOCREATE] {OO}{self.loop}/{str(lim)} HKR-OK:{len(ok)} - HKR-CP:{len(cp)}{OO} '),
             sys.stdout.flush()
             if 'boy' in self.gender:
                 name = random.choice(boy).split(' ')
